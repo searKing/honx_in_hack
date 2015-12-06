@@ -3,6 +3,8 @@
 		ID:npacipdgogmamniefcahnbddckbejjoc
 		Download URI:
 			Google：https://chrome.google.com/webstore/detail/%E7%BA%A2%E6%9D%8F/heehjpdocpefckjobfgnfdbhoebhphkf?hl=zh-CN
+		thirdparty URI:
+			http://www.ran1021.com/archives/1043
 	Main Inviate Page URI
 		http://honx.in/guide?account=471030698@qq.com#/8
 	HACK REFERENCE
@@ -23,6 +25,8 @@
 						单击文本编辑窗口的{}
 					解密并格式化
 						http://tool.lu/js/
+					如果需要根据页面显示文字定位代码点，可以将文字转换为Unicode编码搜索
+						http://tool.chinaz.com/Tools/Unicode.aspx
 		根据上述ID，进入如下目录（可直接使用everything神器搜索ID）
 			C:\Users\chenhaixin\AppData\Local\Google\Chrome\User Data\Default\Extensions\npacipdgogmamniefcahnbddckbejjoc\2.1.5_0
 			notepad++打开userManager.js
